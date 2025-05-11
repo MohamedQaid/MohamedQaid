@@ -30,7 +30,7 @@
 |--------|-------|----------|
 | [UI Login Template](https://github.com/MohamedQaid/flutter_ui_templates/tree/main/lib/ui_1_login_and_splash) | تصميم شاشة تسجيل دخول جذابة باستخدام Flutter | ![login](https://raw.githubusercontent.com/MohamedQaid/flutter_ui_templates/main/lib/ui_1_login_and_splash/login_ui_preview.png) |
 | [تطبيق جاهد نفسك](https://github.com/MohamedQaid/jahed-nafsik-app) | تطبيق أذكار شامل مع تنبيهات وميزات مشاركة | 📱 |
-| [Skinkeran UI](https://github.com/MohamedQaid/ui_flutter_app/blob/main/lib/ui_2_skinkeran/ui-skinkeran-home.png) | تصميم واجهات تطبيق عناية بالبشرة | 🧴 <img src="https://raw.githubusercontent.com/MohamedQaid/flutter_ui_templates/main/lib/ui_1_login_and_splash/login_ui_preview.png" width="150"/> |
+| [Skinkeran UI](https://github.com/MohamedQaid/ui_flutter_app/blob/main/lib/ui_2_skinkeran/ui-skinkeran-home.png) | تصميم واجهات تطبيق عناية بالبشرة | 🧴 <img src="https://github.com/MohamedQaid/ui_flutter_app/blob/main/lib/ui_2_skinkeran/ui-skinkeran-home.png" width="150"/> |
 
 ---
 
